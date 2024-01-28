@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_Temp_Converter/static/css/main.2d57b3c0.css",
+    "main.js": "/React_Temp_Converter/static/js/main.9977fe91.js",
+    "index.html": "/React_Temp_Converter/index.html",
+    "main.2d57b3c0.css.map": "/React_Temp_Converter/static/css/main.2d57b3c0.css.map",
+    "main.9977fe91.js.map": "/React_Temp_Converter/static/js/main.9977fe91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d57b3c0.css",
+    "static/js/main.9977fe91.js"
+  ]
+}
